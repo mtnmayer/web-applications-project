@@ -14,6 +14,10 @@ namespace TravelMe.Controllers
         {
             return View();
         }
+        public string stam()
+        {
+
+        }
 
         public IActionResult Privacy()
         {
